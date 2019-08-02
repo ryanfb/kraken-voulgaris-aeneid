@@ -1,5 +1,3 @@
----
----
  * ❌ [voulgaris_1_page_00052](voulgaris_1_page_00052.html)
  * ❌ [voulgaris_1_page_00064](voulgaris_1_page_00064.html)
  * ❌ [voulgaris_1_page_00070](voulgaris_1_page_00070.html)
