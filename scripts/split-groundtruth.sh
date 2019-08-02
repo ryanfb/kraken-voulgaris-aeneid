@@ -3,14 +3,14 @@
 # This way we can train a model on the "checked" dataset, and
 # then use it to prefill the "unchecked" dataset.
 
-fgrep ✅ groundtruth/groundtruth-index.md | sed -e 's/^.*\[\(.+\)\].*/\1'| while readchecked; do
-  rm -rf groundtruth-checked
-  mkdir -p groundtruth-checked
+rm -rf groundtruth-checked
+mkdir -p groundtruth-checked
+fgrep ✅ groundtruth/groundtruth-index.md | sed -e 's/^.*\[\(.*\)\].*/\1/' | while read checked; do
   cp -v groundtruth/${checked}.png groundtruth/${checked}.html groundtruth-checked/
 done
 
-fgrep ❌ groundtruth/groundtruth-index.md | sed -e 's/^.*\[\(.+\)\].*/\1'| while read unchecked; do
-  rm -rf groundtruth-unchecked
-  mkdir -p groundtruth-unchecked
+rm -rf groundtruth-unchecked
+mkdir -p groundtruth-unchecked
+fgrep ❌ groundtruth/groundtruth-index.md | sed -e 's/^.*\[\(.*\)\].*/\1/' | while read unchecked; do
   cp -v groundtruth/${unchecked}.png groundtruth/${unchecked}.html groundtruth-unchecked/
 done
