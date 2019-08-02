@@ -54,9 +54,9 @@ test-nfc: voulgaris_best_nfc.mlmodel
 	$(DOCKER_PREFIX) ketos test --device $(CUDA_DEVICE) -m voulgaris_best_nfc.mlmodel extract/*.png
 
 groundtruth-refill : voulgaris_best_nfc.mlmodel groundtruth-unchecked/*.html | groundtruth-unchecked
-		./scripts/refill-groundtruth.sh
+	./scripts/refill-groundtruth.sh
 
 clean:
 	rm -fv voulgaris_best_nfd.mlmodel voulgaris_best_nfc.mlmodel
 
-.PHONY: groundtruth-prefill test-nfd test-nfc clean
+.PHONY: groundtruth-prefill test-nfd test-nfc clean groundtruth-refill
