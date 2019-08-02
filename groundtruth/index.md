@@ -21,4 +21,4 @@ This is a project for generating an edition-specific OCR training file for [Krak
 
 ## Pages
 
-{% include_relative groundtruth-index.html %}
+{% include_relative groundtruth-index.md %}
