@@ -18,7 +18,7 @@ This is a project for generating an edition-specific OCR training file for [Krak
  * Pay close attention to punctuation, accents, capitalization, and spacing
  * It can be helpful to consult the [Greek Word Study Tool](http://www.perseus.tufts.edu/hopper/morph) or [Index of Ancient Greek Lexica](https://dcthree.github.io/ancient-greek-lexica/) for forms that are unfamiliar
  * This edition uses [stigma](https://en.wikipedia.org/wiki/Stigma_(letter)) for "στ": ϛ
- * You may also notice some odd-looking thetas - these are σθ ligatures
+ * You may also notice some odd-looking thetas and chis - these are σθ or σχ ligatures
  * There are also frequent "ου" ligatures: ȣ
    * Circumflex accented: ȣ͂
    * Acute accented: ȣ́
