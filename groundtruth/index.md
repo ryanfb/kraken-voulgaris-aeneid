@@ -17,7 +17,13 @@ This is a project for generating an edition-specific OCR training file for [Krak
  * Beginning of each line is usually capitalized
  * Pay close attention to punctuation, accents, capitalization, and spacing
  * This edition uses [stigma](https://en.wikipedia.org/wiki/Stigma_(letter)) for "στ": ϛ
- * There are also some "ου" ligatures: ȣ
+ * You may also notice some odd-looking thetas - these are σθ ligatures
+ * There are also frequent "ου" ligatures: ȣ
+   * Circumflex accented: ȣ͂
+   * Acute accented: ȣ́
+   * Grave accented: ȣ̀
+   * Smooth accented: ȣ̓
+   * Rough accented: ȣ̔
 
 ## Pages
 
