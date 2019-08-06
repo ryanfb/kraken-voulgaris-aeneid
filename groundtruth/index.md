@@ -5,7 +5,7 @@ This is a project for generating an edition-specific OCR training file for [Krak
 
 ## Instructions
 
- * Pick a non-corrected page (❌) from the list below (you might also check that there are no oopen [issues](https://github.com/ryanfb/kraken-voulgaris-aeneid/issues) for your page).
+ * Pick a non-corrected page (❌) from the list below (you might also check that there are no open [issues](https://github.com/ryanfb/kraken-voulgaris-aeneid/issues) for your page).
  * Feel free to open a provisional issue with the page you're working on (e.g. `voulgaris_1_page_00046`), if you want to avoid any potential duplication of effort. Simply close the issue if you abandon the work.
  * Read lines in image and correct the transcription to reflect *diplomatic* ground truth of what's represented in the image.
  * Pages are prefilled with OCR output from the [`kraken-gaza-iliad`](https://github.com/ryanfb/kraken-gaza-iliad) model. There will be plenty of errors, so if you feel it's faster to simply erase a line and type the transcription instead of correcting the prefilled output, feel free.
