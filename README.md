@@ -1,5 +1,7 @@
 # kraken-voulgaris-aeneid
 
+![GitHub repo size](https://img.shields.io/github/repo-size/ryanfb/kraken-voulgaris-aeneid)
+
 <https://ryanfb.github.io/kraken-voulgaris-aeneid/groundtruth/>
 
 This is a project for generating an edition-specific OCR training file for [Kraken](http://kraken.re/) for Evgenios Voulgaris' Greek translation of the Aeneid.
