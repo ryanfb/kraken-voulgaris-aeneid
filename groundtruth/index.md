@@ -16,7 +16,7 @@ This is a project for generating an edition-specific OCR training file for [Krak
  * If a chunk is incorrectly chunked (multiple lines lumped together, or a single line cut in half horizontally separating the tops and bottoms of characters), simply skip it and erase any prefilled text
  * Beginning of each line is usually capitalized
  * Pay close attention to punctuation, accents, capitalization, and spacing
- * It can be helpful to consult the [Greek Word Study Tool](http://www.perseus.tufts.edu/hopper/morph) or [Index of Ancient Greek Lexica](https://dcthree.github.io/ancient-greek-lexica/) for forms that are unfamiliar
+ * It can be helpful to consult the [Greek Word Study Tool](http://www.perseus.tufts.edu/hopper/morph) or [Index of Ancient Greek Lexica](https://dcthree.github.io/ancient-greek-lexica/) for forms that are unfamiliar. If you have access, the TLG "Text Search" tool can also be extremely useful
  * The apparatus frequently uses German-style quotation marks: „
  * This edition uses [stigma](https://en.wikipedia.org/wiki/Stigma_(letter)) for "στ": ϛ
  * You may also notice some odd-looking thetas and chis - these are σθ or σχ ligatures
