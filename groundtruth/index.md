@@ -29,7 +29,7 @@ This is a project for generating an edition-specific OCR training file for [Krak
  * Other ligatures:
    * ![σπ ligature](examples/sp.png) - σπ
    * ![υν ligature](examples/un.png) - υν
-   * ![ην ligature](examples/hn.png) - ην (the accent, which goes over the eta in your transcription, is placed over the nu)
+   * ![ην ligature](examples/hn.png) - ην (the accent, which goes over the eta in your transcription, is placed over the nu). In the smaller font of the apparatus, the ligature has a broken stroke.
 
 ## Pages
 
