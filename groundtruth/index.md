@@ -25,6 +25,10 @@ This is a project for generating an edition-specific OCR training file for [Krak
    * Grave accented: ȣ̀
    * Smooth accented: ȣ̓
    * Rough accented: ȣ̔
+ * Other ligatures:
+   * ![σπ ligature](examples/sp.png) - σπ
+   * ![υν ligature](examples/un.png) - υν
+   * ![ην ligature](examples/hn.png) - ην (the accent, which goes over the eta in your transcription, is placed over the nu)
 
 ## Pages
 
