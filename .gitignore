@@ -2,3 +2,5 @@ gaza_best_nfc.mlmodel
 images
 groundtruth-checked
 groundtruth-unchecked
+extract-nfc
+extract-nfd
