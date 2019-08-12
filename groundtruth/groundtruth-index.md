@@ -41,7 +41,7 @@
  * ❌ [voulgaris_3_page_00176](voulgaris_3_page_00176.html)
  * ❌ [voulgaris_3_page_00180](voulgaris_3_page_00180.html)
  * ❌ [voulgaris_3_page_00182](voulgaris_3_page_00182.html)
- * ❌ [voulgaris_3_page_00206](voulgaris_3_page_00206.html)
+ * ✅ [voulgaris_3_page_00206](voulgaris_3_page_00206.html)
  * ✅ [voulgaris_3_page_00234](voulgaris_3_page_00234.html)
  * ✅ [voulgaris_3_page_00258](voulgaris_3_page_00258.html)
  * ✅ [voulgaris_3_page_00310](voulgaris_3_page_00310.html)
