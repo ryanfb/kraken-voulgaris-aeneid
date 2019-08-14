@@ -26,6 +26,7 @@ This is a project for generating an edition-specific OCR training file for [Krak
    * Grave accented: ȣ̀
    * Smooth accented: ȣ̓
    * Rough accented: ȣ̔
+     * Rogh + acute: ȣ̔́
  * Other ligatures:
    * ![σπ ligature](examples/sp.png) - σπ
    * ![υν ligature](examples/un.png) - υν
