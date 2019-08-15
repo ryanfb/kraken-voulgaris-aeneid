@@ -25,6 +25,7 @@ This is a project for generating an edition-specific OCR training file for [Krak
    * Acute accented: ȣ́
    * Grave accented: ȣ̀
    * Smooth accented: ȣ̓
+     * Smooth + circumflex: ȣ͂̓
    * Rough accented: ȣ̔
      * Rough + acute: ȣ̔́
  * Other ligatures:
