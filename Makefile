@@ -10,7 +10,7 @@ else
 	DOCKER_PREFIX=
 endif
 
-all: test-nfc
+all: voulgaris_best_nfc.mlmodel voulgaris_best_nfd.mlmodel
 
 sequential_images images : | pdfs/voulgaris_1.pdf pdfs/voulgaris_2.pdf pdfs/voulgaris_3.pdf
 	./scripts/extract-images.sh
