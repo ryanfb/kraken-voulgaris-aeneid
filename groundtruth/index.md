@@ -21,6 +21,7 @@ This is a project for generating an edition-specific OCR training file for [Krak
  * This edition uses [stigma](https://en.wikipedia.org/wiki/Stigma_(letter)) for "στ": ϛ
  * You may also notice some odd-looking thetas and chis - these are σθ or σχ ligatures
  * Fully-ligatured καὶ occurs occasionally in the apparatus: ϗ
+ * Latin in the apparatus uses long S: ſ
  * There are also frequent "ου" ligatures: ȣ
    * Circumflex accented: ȣ͂
    * Acute accented: ȣ́
