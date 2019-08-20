@@ -29,6 +29,7 @@ This is a project for generating an edition-specific OCR training file for [Krak
      * Smooth + circumflex: ȣ͂̓
      * Smooth + acute: ȣ̓́
    * Rough accented: ȣ̔
+     * Rough + circumflex: ȣ͂̔
      * Rough + acute: ȣ̔́
  * Other ligatures:
    * ![σπ ligature](examples/sp.png) - σπ
