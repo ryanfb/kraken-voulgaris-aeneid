@@ -15,7 +15,7 @@
  * ❌ [voulgaris_1_page_00336](voulgaris_1_page_00336.html)
  * ❌ [voulgaris_1_page_00358](voulgaris_1_page_00358.html)
  * ✅ [voulgaris_2_page_00030](voulgaris_2_page_00030.html)
- * ❌ [voulgaris_2_page_00044](voulgaris_2_page_00044.html)
+ * ✅ [voulgaris_2_page_00044](voulgaris_2_page_00044.html)
  * ❌ [voulgaris_2_page_00050](voulgaris_2_page_00050.html)
  * ❌ [voulgaris_2_page_00060](voulgaris_2_page_00060.html)
  * ❌ [voulgaris_2_page_00078](voulgaris_2_page_00078.html)
